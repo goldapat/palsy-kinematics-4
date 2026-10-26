@@ -23,7 +23,7 @@ pose = mp_pose.Pose(
 BASE_DIR = os.path.dirname(os.path.abspath(__file__))
 
 # TODO: Update this path to your target MP4 file when ready
-video_path = r"E:\GOLD\school\Project Cerebral palsy\cp_screening_project\mini_rgbd_demo_1.mp4"
+video_path = r"YOUR VIDEO PATH YOUR VIDEO PATH" <--- YOUR PATH YOUR PATH YOUR PATH YOUR PATH VIDEO IS IN README
 
 cap = cv2.VideoCapture(video_path)
 
