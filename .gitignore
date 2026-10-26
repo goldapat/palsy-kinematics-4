@@ -1,0 +1,11 @@
+# Ignore virtual environments
+venv/
+env/
+ENV/
+__pycache__/
+
+# Ignore heavy project files (videos and data)
+*.mp4
+*.csv
+*.avi
+*.mov
